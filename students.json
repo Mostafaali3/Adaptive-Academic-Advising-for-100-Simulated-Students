@@ -1,0 +1,1635 @@
+[
+    {
+        "id": "S001",
+        "completed_courses": [
+            "MATH201",
+            "MATH101"
+        ],
+        "grades": {
+            "MATH201": 3.49,
+            "MATH101": 2.05
+        },
+        "gpa": 2.77,
+        "interest": "AI",
+        "failed_courses": [
+            "CS101"
+        ],
+        "max_courses_per_term": 5
+    },
+    {
+        "id": "S002",
+        "completed_courses": [
+            "CS202",
+            "CS101",
+            "CS102"
+        ],
+        "grades": {
+            "CS202": 2.52,
+            "CS101": 3.32,
+            "CS102": 2.24
+        },
+        "gpa": 2.69,
+        "interest": "AI",
+        "failed_courses": [
+            "DS101",
+            "MATH101"
+        ],
+        "max_courses_per_term": 5
+    },
+    {
+        "id": "S003",
+        "completed_courses": [
+            "CS101"
+        ],
+        "grades": {
+            "CS101": 2.86
+        },
+        "gpa": 2.86,
+        "interest": "Data Science",
+        "failed_courses": [
+            "CS102",
+            "MATH101"
+        ],
+        "max_courses_per_term": 4
+    },
+    {
+        "id": "S004",
+        "completed_courses": [
+            "CS102",
+            "CS101",
+            "MATH101"
+        ],
+        "grades": {
+            "CS102": 2.92,
+            "CS101": 2.68,
+            "MATH101": 3.1
+        },
+        "gpa": 2.9,
+        "interest": "AI",
+        "failed_courses": [],
+        "max_courses_per_term": 4
+    },
+    {
+        "id": "S005",
+        "completed_courses": [
+            "CS101",
+            "CS102"
+        ],
+        "grades": {
+            "CS101": 3.52,
+            "CS102": 3.89
+        },
+        "gpa": 3.71,
+        "interest": "AI",
+        "failed_courses": [],
+        "max_courses_per_term": 4
+    },
+    {
+        "id": "S006",
+        "completed_courses": [],
+        "grades": {},
+        "gpa": 0.0,
+        "interest": "AI",
+        "failed_courses": [
+            "CS101",
+            "MATH101"
+        ],
+        "max_courses_per_term": 3
+    },
+    {
+        "id": "S007",
+        "completed_courses": [
+            "MATH201",
+            "CS102",
+            "CS101",
+            "MATH101"
+        ],
+        "grades": {
+            "MATH201": 3.72,
+            "CS102": 3.48,
+            "CS101": 2.48,
+            "MATH101": 2.8
+        },
+        "gpa": 3.12,
+        "interest": "Data Science",
+        "failed_courses": [
+            "CS202"
+        ],
+        "max_courses_per_term": 5
+    },
+    {
+        "id": "S008",
+        "completed_courses": [
+            "MATH201",
+            "CS101",
+            "MATH101"
+        ],
+        "grades": {
+            "MATH201": 2.82,
+            "CS101": 2.09,
+            "MATH101": 3.15
+        },
+        "gpa": 2.69,
+        "interest": "Security",
+        "failed_courses": [
+            "CS102"
+        ],
+        "max_courses_per_term": 4
+    },
+    {
+        "id": "S009",
+        "completed_courses": [
+            "MATH201",
+            "MATH101"
+        ],
+        "grades": {
+            "MATH201": 2.61,
+            "MATH101": 2.69
+        },
+        "gpa": 2.65,
+        "interest": "Data Science",
+        "failed_courses": [],
+        "max_courses_per_term": 4
+    },
+    {
+        "id": "S010",
+        "completed_courses": [],
+        "grades": {},
+        "gpa": 0.0,
+        "interest": "AI",
+        "failed_courses": [
+            "CS101",
+            "MATH101"
+        ],
+        "max_courses_per_term": 4
+    },
+    {
+        "id": "S011",
+        "completed_courses": [
+            "CS101"
+        ],
+        "grades": {
+            "CS101": 2.12
+        },
+        "gpa": 2.12,
+        "interest": "Security",
+        "failed_courses": [
+            "CS102",
+            "MATH101"
+        ],
+        "max_courses_per_term": 4
+    },
+    {
+        "id": "S012",
+        "completed_courses": [
+            "MATH201",
+            "MATH101"
+        ],
+        "grades": {
+            "MATH201": 3.63,
+            "MATH101": 3.0
+        },
+        "gpa": 3.31,
+        "interest": "Security",
+        "failed_courses": [
+            "CS101"
+        ],
+        "max_courses_per_term": 3
+    },
+    {
+        "id": "S013",
+        "completed_courses": [],
+        "grades": {},
+        "gpa": 0.0,
+        "interest": "AI",
+        "failed_courses": [
+            "CS101",
+            "MATH101"
+        ],
+        "max_courses_per_term": 5
+    },
+    {
+        "id": "S014",
+        "completed_courses": [
+            "MATH201",
+            "MATH101"
+        ],
+        "grades": {
+            "MATH201": 3.75,
+            "MATH101": 3.27
+        },
+        "gpa": 3.51,
+        "interest": "AI",
+        "failed_courses": [
+            "CS101"
+        ],
+        "max_courses_per_term": 4
+    },
+    {
+        "id": "S015",
+        "completed_courses": [],
+        "grades": {},
+        "gpa": 0.0,
+        "interest": "Data Science",
+        "failed_courses": [
+            "CS101",
+            "MATH101"
+        ],
+        "max_courses_per_term": 4
+    },
+    {
+        "id": "S016",
+        "completed_courses": [
+            "CS101"
+        ],
+        "grades": {
+            "CS101": 2.82
+        },
+        "gpa": 2.82,
+        "interest": "AI",
+        "failed_courses": [
+            "MATH101",
+            "CS102"
+        ],
+        "max_courses_per_term": 3
+    },
+    {
+        "id": "S017",
+        "completed_courses": [
+            "MATH201",
+            "MATH101"
+        ],
+        "grades": {
+            "MATH201": 3.93,
+            "MATH101": 3.85
+        },
+        "gpa": 3.89,
+        "interest": "Data Science",
+        "failed_courses": [
+            "CS101"
+        ],
+        "max_courses_per_term": 3
+    },
+    {
+        "id": "S018",
+        "completed_courses": [
+            "CS102",
+            "CS101",
+            "MATH101"
+        ],
+        "grades": {
+            "CS102": 3.77,
+            "CS101": 3.26,
+            "MATH101": 3.55
+        },
+        "gpa": 3.53,
+        "interest": "AI",
+        "failed_courses": [
+            "MATH201"
+        ],
+        "max_courses_per_term": 4
+    },
+    {
+        "id": "S019",
+        "completed_courses": [
+            "MATH201",
+            "MATH101"
+        ],
+        "grades": {
+            "MATH201": 2.2,
+            "MATH101": 2.3
+        },
+        "gpa": 2.25,
+        "interest": "AI",
+        "failed_courses": [],
+        "max_courses_per_term": 4
+    },
+    {
+        "id": "S020",
+        "completed_courses": [
+            "CS101"
+        ],
+        "grades": {
+            "CS101": 2.13
+        },
+        "gpa": 2.13,
+        "interest": "Data Science",
+        "failed_courses": [
+            "MATH101",
+            "CS102"
+        ],
+        "max_courses_per_term": 3
+    },
+    {
+        "id": "S021",
+        "completed_courses": [
+            "CS101",
+            "MATH101"
+        ],
+        "grades": {
+            "CS101": 3.98,
+            "MATH101": 2.45
+        },
+        "gpa": 3.21,
+        "interest": "Security",
+        "failed_courses": [
+            "MATH201",
+            "CS102"
+        ],
+        "max_courses_per_term": 4
+    },
+    {
+        "id": "S022",
+        "completed_courses": [
+            "CS202",
+            "CS101",
+            "CS102"
+        ],
+        "grades": {
+            "CS202": 3.56,
+            "CS101": 3.82,
+            "CS102": 2.54
+        },
+        "gpa": 3.31,
+        "interest": "Data Science",
+        "failed_courses": [],
+        "max_courses_per_term": 5
+    },
+    {
+        "id": "S023",
+        "completed_courses": [
+            "MATH101"
+        ],
+        "grades": {
+            "MATH101": 2.37
+        },
+        "gpa": 2.37,
+        "interest": "AI",
+        "failed_courses": [
+            "MATH201",
+            "CS101"
+        ],
+        "max_courses_per_term": 5
+    },
+    {
+        "id": "S024",
+        "completed_courses": [
+            "CS101",
+            "MATH101"
+        ],
+        "grades": {
+            "CS101": 3.61,
+            "MATH101": 3.37
+        },
+        "gpa": 3.49,
+        "interest": "Security",
+        "failed_courses": [
+            "MATH201"
+        ],
+        "max_courses_per_term": 3
+    },
+    {
+        "id": "S025",
+        "completed_courses": [],
+        "grades": {},
+        "gpa": 0.0,
+        "interest": "Security",
+        "failed_courses": [
+            "CS101",
+            "MATH101"
+        ],
+        "max_courses_per_term": 3
+    },
+    {
+        "id": "S026",
+        "completed_courses": [
+            "MATH201",
+            "MATH101"
+        ],
+        "grades": {
+            "MATH201": 3.46,
+            "MATH101": 2.53
+        },
+        "gpa": 3.0,
+        "interest": "Data Science",
+        "failed_courses": [
+            "CS101"
+        ],
+        "max_courses_per_term": 3
+    },
+    {
+        "id": "S027",
+        "completed_courses": [
+            "MATH201",
+            "CS101",
+            "MATH101"
+        ],
+        "grades": {
+            "MATH201": 3.77,
+            "CS101": 3.95,
+            "MATH101": 3.32
+        },
+        "gpa": 3.68,
+        "interest": "Data Science",
+        "failed_courses": [],
+        "max_courses_per_term": 3
+    },
+    {
+        "id": "S028",
+        "completed_courses": [
+            "DS101",
+            "CS101",
+            "CS102"
+        ],
+        "grades": {
+            "DS101": 2.67,
+            "CS101": 3.94,
+            "CS102": 3.9
+        },
+        "gpa": 3.5,
+        "interest": "Data Science",
+        "failed_courses": [],
+        "max_courses_per_term": 3
+    },
+    {
+        "id": "S029",
+        "completed_courses": [
+            "MATH201",
+            "MATH101"
+        ],
+        "grades": {
+            "MATH201": 2.8,
+            "MATH101": 2.2
+        },
+        "gpa": 2.5,
+        "interest": "Data Science",
+        "failed_courses": [
+            "CS101"
+        ],
+        "max_courses_per_term": 5
+    },
+    {
+        "id": "S030",
+        "completed_courses": [
+            "MATH101",
+            "CS101",
+            "CS102"
+        ],
+        "grades": {
+            "MATH101": 3.06,
+            "CS101": 3.65,
+            "CS102": 2.13
+        },
+        "gpa": 2.95,
+        "interest": "AI",
+        "failed_courses": [],
+        "max_courses_per_term": 3
+    },
+    {
+        "id": "S031",
+        "completed_courses": [
+            "MATH101"
+        ],
+        "grades": {
+            "MATH101": 3.18
+        },
+        "gpa": 3.18,
+        "interest": "AI",
+        "failed_courses": [
+            "MATH201",
+            "CS101"
+        ],
+        "max_courses_per_term": 3
+    },
+    {
+        "id": "S032",
+        "completed_courses": [
+            "MATH201",
+            "MATH101"
+        ],
+        "grades": {
+            "MATH201": 3.3,
+            "MATH101": 2.1
+        },
+        "gpa": 2.7,
+        "interest": "Data Science",
+        "failed_courses": [
+            "CS101"
+        ],
+        "max_courses_per_term": 5
+    },
+    {
+        "id": "S033",
+        "completed_courses": [],
+        "grades": {},
+        "gpa": 0.0,
+        "interest": "Security",
+        "failed_courses": [
+            "CS101",
+            "MATH101"
+        ],
+        "max_courses_per_term": 4
+    },
+    {
+        "id": "S034",
+        "completed_courses": [
+            "MATH101"
+        ],
+        "grades": {
+            "MATH101": 3.01
+        },
+        "gpa": 3.01,
+        "interest": "AI",
+        "failed_courses": [
+            "MATH201",
+            "CS101"
+        ],
+        "max_courses_per_term": 3
+    },
+    {
+        "id": "S035",
+        "completed_courses": [],
+        "grades": {},
+        "gpa": 0.0,
+        "interest": "AI",
+        "failed_courses": [
+            "CS101",
+            "MATH101"
+        ],
+        "max_courses_per_term": 4
+    },
+    {
+        "id": "S036",
+        "completed_courses": [
+            "CS202",
+            "CS101",
+            "CS102"
+        ],
+        "grades": {
+            "CS202": 3.46,
+            "CS101": 3.56,
+            "CS102": 2.02
+        },
+        "gpa": 3.01,
+        "interest": "Security",
+        "failed_courses": [],
+        "max_courses_per_term": 3
+    },
+    {
+        "id": "S037",
+        "completed_courses": [
+            "MATH201",
+            "CS101",
+            "MATH101"
+        ],
+        "grades": {
+            "MATH201": 3.43,
+            "CS101": 3.19,
+            "MATH101": 3.97
+        },
+        "gpa": 3.53,
+        "interest": "Security",
+        "failed_courses": [],
+        "max_courses_per_term": 5
+    },
+    {
+        "id": "S038",
+        "completed_courses": [
+            "CS202",
+            "MATH101",
+            "CS101",
+            "CS102"
+        ],
+        "grades": {
+            "CS202": 2.68,
+            "MATH101": 3.02,
+            "CS101": 3.27,
+            "CS102": 2.31
+        },
+        "gpa": 2.82,
+        "interest": "AI",
+        "failed_courses": [
+            "DS101"
+        ],
+        "max_courses_per_term": 5
+    },
+    {
+        "id": "S039",
+        "completed_courses": [
+            "CS101",
+            "MATH101"
+        ],
+        "grades": {
+            "CS101": 2.06,
+            "MATH101": 2.81
+        },
+        "gpa": 2.44,
+        "interest": "AI",
+        "failed_courses": [],
+        "max_courses_per_term": 5
+    },
+    {
+        "id": "S040",
+        "completed_courses": [
+            "CS201",
+            "CS101",
+            "CS102"
+        ],
+        "grades": {
+            "CS201": 3.04,
+            "CS101": 2.96,
+            "CS102": 3.95
+        },
+        "gpa": 3.32,
+        "interest": "AI",
+        "failed_courses": [],
+        "max_courses_per_term": 3
+    },
+    {
+        "id": "S041",
+        "completed_courses": [],
+        "grades": {},
+        "gpa": 0.0,
+        "interest": "Security",
+        "failed_courses": [
+            "CS101",
+            "MATH101"
+        ],
+        "max_courses_per_term": 4
+    },
+    {
+        "id": "S042",
+        "completed_courses": [],
+        "grades": {},
+        "gpa": 0.0,
+        "interest": "AI",
+        "failed_courses": [
+            "CS101",
+            "MATH101"
+        ],
+        "max_courses_per_term": 3
+    },
+    {
+        "id": "S043",
+        "completed_courses": [
+            "MATH201",
+            "MATH101"
+        ],
+        "grades": {
+            "MATH201": 3.39,
+            "MATH101": 2.86
+        },
+        "gpa": 3.12,
+        "interest": "Security",
+        "failed_courses": [
+            "CS101"
+        ],
+        "max_courses_per_term": 5
+    },
+    {
+        "id": "S044",
+        "completed_courses": [
+            "CS101",
+            "MATH101"
+        ],
+        "grades": {
+            "CS101": 2.73,
+            "MATH101": 3.72
+        },
+        "gpa": 3.23,
+        "interest": "Data Science",
+        "failed_courses": [],
+        "max_courses_per_term": 4
+    },
+    {
+        "id": "S045",
+        "completed_courses": [
+            "CS101",
+            "MATH101"
+        ],
+        "grades": {
+            "CS101": 2.59,
+            "MATH101": 2.17
+        },
+        "gpa": 2.38,
+        "interest": "AI",
+        "failed_courses": [
+            "CS102"
+        ],
+        "max_courses_per_term": 3
+    },
+    {
+        "id": "S046",
+        "completed_courses": [
+            "CS101",
+            "CS102"
+        ],
+        "grades": {
+            "CS101": 2.17,
+            "CS102": 3.09
+        },
+        "gpa": 2.63,
+        "interest": "AI",
+        "failed_courses": [
+            "MATH101"
+        ],
+        "max_courses_per_term": 5
+    },
+    {
+        "id": "S047",
+        "completed_courses": [
+            "MATH101",
+            "CS101",
+            "CS102"
+        ],
+        "grades": {
+            "MATH101": 2.37,
+            "CS101": 3.73,
+            "CS102": 3.06
+        },
+        "gpa": 3.05,
+        "interest": "AI",
+        "failed_courses": [],
+        "max_courses_per_term": 3
+    },
+    {
+        "id": "S048",
+        "completed_courses": [
+            "CS101"
+        ],
+        "grades": {
+            "CS101": 3.54
+        },
+        "gpa": 3.54,
+        "interest": "AI",
+        "failed_courses": [
+            "CS102",
+            "MATH101"
+        ],
+        "max_courses_per_term": 4
+    },
+    {
+        "id": "S049",
+        "completed_courses": [
+            "MATH201",
+            "CS102",
+            "CS101",
+            "MATH101"
+        ],
+        "grades": {
+            "MATH201": 3.66,
+            "CS102": 2.1,
+            "CS101": 3.58,
+            "MATH101": 3.32
+        },
+        "gpa": 3.17,
+        "interest": "AI",
+        "failed_courses": [
+            "CS201"
+        ],
+        "max_courses_per_term": 5
+    },
+    {
+        "id": "S050",
+        "completed_courses": [
+            "CS102",
+            "CS101",
+            "MATH101"
+        ],
+        "grades": {
+            "CS102": 2.03,
+            "CS101": 2.56,
+            "MATH101": 2.56
+        },
+        "gpa": 2.38,
+        "interest": "Security",
+        "failed_courses": [],
+        "max_courses_per_term": 3
+    },
+    {
+        "id": "S051",
+        "completed_courses": [],
+        "grades": {},
+        "gpa": 0.0,
+        "interest": "Security",
+        "failed_courses": [
+            "CS101",
+            "MATH101"
+        ],
+        "max_courses_per_term": 4
+    },
+    {
+        "id": "S052",
+        "completed_courses": [
+            "CS202",
+            "CS101",
+            "CS102"
+        ],
+        "grades": {
+            "CS202": 2.3,
+            "CS101": 2.96,
+            "CS102": 2.62
+        },
+        "gpa": 2.63,
+        "interest": "AI",
+        "failed_courses": [],
+        "max_courses_per_term": 3
+    },
+    {
+        "id": "S053",
+        "completed_courses": [
+            "CS102",
+            "CS101",
+            "MATH101"
+        ],
+        "grades": {
+            "CS102": 3.0,
+            "CS101": 2.95,
+            "MATH101": 3.84
+        },
+        "gpa": 3.26,
+        "interest": "Data Science",
+        "failed_courses": [
+            "MATH201",
+            "CS201"
+        ],
+        "max_courses_per_term": 5
+    },
+    {
+        "id": "S054",
+        "completed_courses": [],
+        "grades": {},
+        "gpa": 0.0,
+        "interest": "Data Science",
+        "failed_courses": [
+            "CS101",
+            "MATH101"
+        ],
+        "max_courses_per_term": 4
+    },
+    {
+        "id": "S055",
+        "completed_courses": [
+            "CS101"
+        ],
+        "grades": {
+            "CS101": 2.45
+        },
+        "gpa": 2.45,
+        "interest": "Security",
+        "failed_courses": [
+            "MATH101",
+            "CS102"
+        ],
+        "max_courses_per_term": 4
+    },
+    {
+        "id": "S056",
+        "completed_courses": [
+            "CS101",
+            "CS102"
+        ],
+        "grades": {
+            "CS101": 3.71,
+            "CS102": 3.48
+        },
+        "gpa": 3.59,
+        "interest": "AI",
+        "failed_courses": [
+            "CS201",
+            "CS202",
+            "MATH101"
+        ],
+        "max_courses_per_term": 5
+    },
+    {
+        "id": "S057",
+        "completed_courses": [
+            "MATH201",
+            "CS101",
+            "MATH101"
+        ],
+        "grades": {
+            "MATH201": 3.82,
+            "CS101": 2.19,
+            "MATH101": 3.19
+        },
+        "gpa": 3.07,
+        "interest": "Security",
+        "failed_courses": [],
+        "max_courses_per_term": 4
+    },
+    {
+        "id": "S058",
+        "completed_courses": [
+            "CS101",
+            "MATH101"
+        ],
+        "grades": {
+            "CS101": 2.17,
+            "MATH101": 3.53
+        },
+        "gpa": 2.85,
+        "interest": "AI",
+        "failed_courses": [
+            "MATH201"
+        ],
+        "max_courses_per_term": 3
+    },
+    {
+        "id": "S059",
+        "completed_courses": [
+            "MATH201",
+            "CS101",
+            "MATH101"
+        ],
+        "grades": {
+            "MATH201": 2.92,
+            "CS101": 2.26,
+            "MATH101": 3.94
+        },
+        "gpa": 3.04,
+        "interest": "Security",
+        "failed_courses": [],
+        "max_courses_per_term": 4
+    },
+    {
+        "id": "S060",
+        "completed_courses": [
+            "MATH201",
+            "MATH101"
+        ],
+        "grades": {
+            "MATH201": 3.67,
+            "MATH101": 2.61
+        },
+        "gpa": 3.14,
+        "interest": "Security",
+        "failed_courses": [
+            "CS101"
+        ],
+        "max_courses_per_term": 5
+    },
+    {
+        "id": "S061",
+        "completed_courses": [
+            "CS101",
+            "MATH101"
+        ],
+        "grades": {
+            "CS101": 2.5,
+            "MATH101": 2.24
+        },
+        "gpa": 2.37,
+        "interest": "AI",
+        "failed_courses": [
+            "MATH201",
+            "CS102"
+        ],
+        "max_courses_per_term": 4
+    },
+    {
+        "id": "S062",
+        "completed_courses": [
+            "MATH201",
+            "MATH101"
+        ],
+        "grades": {
+            "MATH201": 3.73,
+            "MATH101": 2.42
+        },
+        "gpa": 3.08,
+        "interest": "AI",
+        "failed_courses": [
+            "CS101"
+        ],
+        "max_courses_per_term": 3
+    },
+    {
+        "id": "S063",
+        "completed_courses": [
+            "CS102",
+            "CS101",
+            "MATH101"
+        ],
+        "grades": {
+            "CS102": 3.87,
+            "CS101": 2.99,
+            "MATH101": 3.69
+        },
+        "gpa": 3.52,
+        "interest": "AI",
+        "failed_courses": [],
+        "max_courses_per_term": 3
+    },
+    {
+        "id": "S064",
+        "completed_courses": [
+            "CS101"
+        ],
+        "grades": {
+            "CS101": 2.59
+        },
+        "gpa": 2.59,
+        "interest": "Data Science",
+        "failed_courses": [
+            "MATH101",
+            "CS102"
+        ],
+        "max_courses_per_term": 3
+    },
+    {
+        "id": "S065",
+        "completed_courses": [],
+        "grades": {},
+        "gpa": 0.0,
+        "interest": "Data Science",
+        "failed_courses": [
+            "CS101",
+            "MATH101"
+        ],
+        "max_courses_per_term": 4
+    },
+    {
+        "id": "S066",
+        "completed_courses": [
+            "CS101"
+        ],
+        "grades": {
+            "CS101": 2.82
+        },
+        "gpa": 2.82,
+        "interest": "Security",
+        "failed_courses": [
+            "CS102",
+            "MATH101"
+        ],
+        "max_courses_per_term": 5
+    },
+    {
+        "id": "S067",
+        "completed_courses": [
+            "MATH201",
+            "CS101",
+            "MATH101"
+        ],
+        "grades": {
+            "MATH201": 2.28,
+            "CS101": 2.65,
+            "MATH101": 3.27
+        },
+        "gpa": 2.73,
+        "interest": "Security",
+        "failed_courses": [],
+        "max_courses_per_term": 3
+    },
+    {
+        "id": "S068",
+        "completed_courses": [],
+        "grades": {},
+        "gpa": 0.0,
+        "interest": "Security",
+        "failed_courses": [
+            "CS101",
+            "MATH101"
+        ],
+        "max_courses_per_term": 4
+    },
+    {
+        "id": "S069",
+        "completed_courses": [
+            "CS101"
+        ],
+        "grades": {
+            "CS101": 3.28
+        },
+        "gpa": 3.28,
+        "interest": "Data Science",
+        "failed_courses": [
+            "CS102",
+            "MATH101"
+        ],
+        "max_courses_per_term": 3
+    },
+    {
+        "id": "S070",
+        "completed_courses": [
+            "CS101",
+            "MATH101"
+        ],
+        "grades": {
+            "CS101": 3.59,
+            "MATH101": 2.61
+        },
+        "gpa": 3.1,
+        "interest": "Security",
+        "failed_courses": [],
+        "max_courses_per_term": 4
+    },
+    {
+        "id": "S071",
+        "completed_courses": [
+            "CS101",
+            "CS102"
+        ],
+        "grades": {
+            "CS101": 2.36,
+            "CS102": 2.54
+        },
+        "gpa": 2.45,
+        "interest": "AI",
+        "failed_courses": [],
+        "max_courses_per_term": 3
+    },
+    {
+        "id": "S072",
+        "completed_courses": [
+            "MATH101"
+        ],
+        "grades": {
+            "MATH101": 3.93
+        },
+        "gpa": 3.93,
+        "interest": "AI",
+        "failed_courses": [
+            "MATH201",
+            "CS101"
+        ],
+        "max_courses_per_term": 3
+    },
+    {
+        "id": "S073",
+        "completed_courses": [
+            "CS101",
+            "MATH101"
+        ],
+        "grades": {
+            "CS101": 3.12,
+            "MATH101": 2.01
+        },
+        "gpa": 2.56,
+        "interest": "AI",
+        "failed_courses": [],
+        "max_courses_per_term": 3
+    },
+    {
+        "id": "S074",
+        "completed_courses": [
+            "MATH201",
+            "MATH101"
+        ],
+        "grades": {
+            "MATH201": 3.9,
+            "MATH101": 3.42
+        },
+        "gpa": 3.66,
+        "interest": "Data Science",
+        "failed_courses": [
+            "CS101"
+        ],
+        "max_courses_per_term": 5
+    },
+    {
+        "id": "S075",
+        "completed_courses": [
+            "CS101",
+            "MATH101"
+        ],
+        "grades": {
+            "CS101": 2.68,
+            "MATH101": 3.1
+        },
+        "gpa": 2.89,
+        "interest": "AI",
+        "failed_courses": [
+            "MATH201"
+        ],
+        "max_courses_per_term": 3
+    },
+    {
+        "id": "S076",
+        "completed_courses": [
+            "MATH101"
+        ],
+        "grades": {
+            "MATH101": 2.39
+        },
+        "gpa": 2.39,
+        "interest": "AI",
+        "failed_courses": [
+            "MATH201",
+            "CS101"
+        ],
+        "max_courses_per_term": 3
+    },
+    {
+        "id": "S077",
+        "completed_courses": [
+            "MATH101",
+            "CS101",
+            "CS102"
+        ],
+        "grades": {
+            "MATH101": 3.2,
+            "CS101": 3.2,
+            "CS102": 3.0
+        },
+        "gpa": 3.13,
+        "interest": "Data Science",
+        "failed_courses": [
+            "CS201",
+            "DS101"
+        ],
+        "max_courses_per_term": 5
+    },
+    {
+        "id": "S078",
+        "completed_courses": [],
+        "grades": {},
+        "gpa": 0.0,
+        "interest": "Security",
+        "failed_courses": [
+            "CS101",
+            "MATH101"
+        ],
+        "max_courses_per_term": 3
+    },
+    {
+        "id": "S079",
+        "completed_courses": [],
+        "grades": {},
+        "gpa": 0.0,
+        "interest": "AI",
+        "failed_courses": [
+            "CS101",
+            "MATH101"
+        ],
+        "max_courses_per_term": 3
+    },
+    {
+        "id": "S080",
+        "completed_courses": [
+            "MATH201",
+            "DS101",
+            "MATH101",
+            "CS101",
+            "CS102"
+        ],
+        "grades": {
+            "MATH201": 3.04,
+            "DS101": 3.78,
+            "MATH101": 3.61,
+            "CS101": 3.2,
+            "CS102": 2.62
+        },
+        "gpa": 3.25,
+        "interest": "AI",
+        "failed_courses": [],
+        "max_courses_per_term": 5
+    },
+    {
+        "id": "S081",
+        "completed_courses": [
+            "CS101",
+            "MATH101"
+        ],
+        "grades": {
+            "CS101": 3.8,
+            "MATH101": 2.3
+        },
+        "gpa": 3.05,
+        "interest": "AI",
+        "failed_courses": [],
+        "max_courses_per_term": 4
+    },
+    {
+        "id": "S082",
+        "completed_courses": [
+            "CS102",
+            "CS101",
+            "MATH101"
+        ],
+        "grades": {
+            "CS102": 2.51,
+            "CS101": 3.24,
+            "MATH101": 3.26
+        },
+        "gpa": 3.0,
+        "interest": "AI",
+        "failed_courses": [
+            "MATH201"
+        ],
+        "max_courses_per_term": 4
+    },
+    {
+        "id": "S083",
+        "completed_courses": [
+            "MATH201",
+            "CS101",
+            "MATH101"
+        ],
+        "grades": {
+            "MATH201": 3.25,
+            "CS101": 3.58,
+            "MATH101": 3.69
+        },
+        "gpa": 3.51,
+        "interest": "AI",
+        "failed_courses": [
+            "CS102"
+        ],
+        "max_courses_per_term": 5
+    },
+    {
+        "id": "S084",
+        "completed_courses": [
+            "MATH201",
+            "CS101",
+            "MATH101"
+        ],
+        "grades": {
+            "MATH201": 3.09,
+            "CS101": 2.05,
+            "MATH101": 3.79
+        },
+        "gpa": 2.98,
+        "interest": "AI",
+        "failed_courses": [
+            "CS102"
+        ],
+        "max_courses_per_term": 4
+    },
+    {
+        "id": "S085",
+        "completed_courses": [
+            "MATH101",
+            "CS101",
+            "CS102"
+        ],
+        "grades": {
+            "MATH101": 2.42,
+            "CS101": 2.09,
+            "CS102": 2.69
+        },
+        "gpa": 2.4,
+        "interest": "Security",
+        "failed_courses": [
+            "DS101"
+        ],
+        "max_courses_per_term": 4
+    },
+    {
+        "id": "S086",
+        "completed_courses": [
+            "MATH201",
+            "CS101",
+            "MATH101"
+        ],
+        "grades": {
+            "MATH201": 2.78,
+            "CS101": 2.58,
+            "MATH101": 3.6
+        },
+        "gpa": 2.99,
+        "interest": "AI",
+        "failed_courses": [],
+        "max_courses_per_term": 5
+    },
+    {
+        "id": "S087",
+        "completed_courses": [
+            "CS202",
+            "CS101",
+            "CS102"
+        ],
+        "grades": {
+            "CS202": 3.11,
+            "CS101": 3.38,
+            "CS102": 3.59
+        },
+        "gpa": 3.36,
+        "interest": "Security",
+        "failed_courses": [],
+        "max_courses_per_term": 3
+    },
+    {
+        "id": "S088",
+        "completed_courses": [
+            "MATH101",
+            "CS101",
+            "CS102"
+        ],
+        "grades": {
+            "MATH101": 2.41,
+            "CS101": 2.96,
+            "CS102": 2.82
+        },
+        "gpa": 2.73,
+        "interest": "AI",
+        "failed_courses": [
+            "CS201"
+        ],
+        "max_courses_per_term": 4
+    },
+    {
+        "id": "S089",
+        "completed_courses": [],
+        "grades": {},
+        "gpa": 0.0,
+        "interest": "Data Science",
+        "failed_courses": [
+            "CS101",
+            "MATH101"
+        ],
+        "max_courses_per_term": 4
+    },
+    {
+        "id": "S090",
+        "completed_courses": [
+            "CS101",
+            "CS102"
+        ],
+        "grades": {
+            "CS101": 2.83,
+            "CS102": 3.29
+        },
+        "gpa": 3.06,
+        "interest": "Security",
+        "failed_courses": [
+            "DS101",
+            "MATH101"
+        ],
+        "max_courses_per_term": 4
+    },
+    {
+        "id": "S091",
+        "completed_courses": [
+            "MATH201",
+            "MATH101"
+        ],
+        "grades": {
+            "MATH201": 3.76,
+            "MATH101": 3.71
+        },
+        "gpa": 3.73,
+        "interest": "Data Science",
+        "failed_courses": [
+            "CS101"
+        ],
+        "max_courses_per_term": 4
+    },
+    {
+        "id": "S092",
+        "completed_courses": [],
+        "grades": {},
+        "gpa": 0.0,
+        "interest": "Data Science",
+        "failed_courses": [
+            "CS101",
+            "MATH101"
+        ],
+        "max_courses_per_term": 4
+    },
+    {
+        "id": "S093",
+        "completed_courses": [
+            "CS201",
+            "CS101",
+            "CS102"
+        ],
+        "grades": {
+            "CS201": 3.02,
+            "CS101": 3.71,
+            "CS102": 2.23
+        },
+        "gpa": 2.99,
+        "interest": "AI",
+        "failed_courses": [],
+        "max_courses_per_term": 3
+    },
+    {
+        "id": "S094",
+        "completed_courses": [
+            "SEC101",
+            "CS201",
+            "CS101",
+            "CS102"
+        ],
+        "grades": {
+            "SEC101": 3.77,
+            "CS201": 2.08,
+            "CS101": 3.55,
+            "CS102": 2.42
+        },
+        "gpa": 2.95,
+        "interest": "Security",
+        "failed_courses": [
+            "MATH101"
+        ],
+        "max_courses_per_term": 5
+    },
+    {
+        "id": "S095",
+        "completed_courses": [
+            "CS101",
+            "CS102"
+        ],
+        "grades": {
+            "CS101": 2.01,
+            "CS102": 3.37
+        },
+        "gpa": 2.69,
+        "interest": "Security",
+        "failed_courses": [
+            "MATH101"
+        ],
+        "max_courses_per_term": 3
+    },
+    {
+        "id": "S096",
+        "completed_courses": [
+            "CS101",
+            "MATH101"
+        ],
+        "grades": {
+            "CS101": 2.58,
+            "MATH101": 3.81
+        },
+        "gpa": 3.2,
+        "interest": "Security",
+        "failed_courses": [
+            "MATH201"
+        ],
+        "max_courses_per_term": 5
+    },
+    {
+        "id": "S097",
+        "completed_courses": [
+            "CS102",
+            "CS101",
+            "MATH101"
+        ],
+        "grades": {
+            "CS102": 2.73,
+            "CS101": 2.8,
+            "MATH101": 2.36
+        },
+        "gpa": 2.63,
+        "interest": "AI",
+        "failed_courses": [
+            "CS202"
+        ],
+        "max_courses_per_term": 4
+    },
+    {
+        "id": "S098",
+        "completed_courses": [
+            "MATH201",
+            "MATH101"
+        ],
+        "grades": {
+            "MATH201": 3.33,
+            "MATH101": 3.32
+        },
+        "gpa": 3.33,
+        "interest": "Data Science",
+        "failed_courses": [
+            "CS101"
+        ],
+        "max_courses_per_term": 4
+    },
+    {
+        "id": "S099",
+        "completed_courses": [
+            "CS101",
+            "MATH101"
+        ],
+        "grades": {
+            "CS101": 2.46,
+            "MATH101": 2.58
+        },
+        "gpa": 2.52,
+        "interest": "Data Science",
+        "failed_courses": [
+            "MATH201"
+        ],
+        "max_courses_per_term": 3
+    },
+    {
+        "id": "S100",
+        "completed_courses": [
+            "MATH201",
+            "MATH101"
+        ],
+        "grades": {
+            "MATH201": 3.72,
+            "MATH101": 2.39
+        },
+        "gpa": 3.06,
+        "interest": "AI",
+        "failed_courses": [
+            "CS101"
+        ],
+        "max_courses_per_term": 5
+    }
+]
